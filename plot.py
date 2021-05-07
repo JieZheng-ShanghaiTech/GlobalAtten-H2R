@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2020/9/21 上午11:58
+# @Time    : 2020/9/21 11:58
 # @Author  : Eric
 # @Site    : 
 # @File    : plot.py
